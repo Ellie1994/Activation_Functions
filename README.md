@@ -26,7 +26,7 @@ You can read the official documentation on both:
 [Matplotlib](https://matplotlib.org/3.1.1/contents.html)
 
 
-###### How to install these dependencies ###### 
+## How to install these dependencies ##
 
 *For Linux users:*
 
