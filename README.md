@@ -13,8 +13,8 @@ The link to the full article on [activation functions](https://siegel.work/blog/
 ![**ReLu Function**](relu.png)
 
 
-
-To execute the code you will need the following python libraries:
+## Dependencies ## 
+To execute the code, you will need the following python libraries:
 
 **NumPy** *(Numerical Python)* and
 **Matplotlib** *(plotting library)*
@@ -22,6 +22,7 @@ To execute the code you will need the following python libraries:
 You can read the official documentation on both:
 
 [Numpy](https://docs.scipy.org/doc/numpy/index.html)
+
 [Matplotlib](https://matplotlib.org/3.1.1/contents.html)
 
 
