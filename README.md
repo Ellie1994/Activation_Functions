@@ -13,6 +13,9 @@ The link to the full article on [activation functions](https://siegel.work/blog/
 ![**ReLu Function**](relu.png)
 
 
+![**Softmax Function**](softmax.png)
+
+
 ## Dependencies ## 
 To execute the code, you will need the following python libraries:
 
@@ -45,3 +48,18 @@ pip install matplotlib --user
 
 python -m pip install numpy
 python -m pip install matplotlib
+
+
+## Note: ##
+*For Matplotlib's **plt.plot(arg1, func(arg1),'color-letter')** color-functionality, use the following 
+single letter abbreviations:*
+
+**character	color
+'b'	blue
+'g'	green
+'r'	red
+'c'	cyan
+'m'	magenta
+'y'	yellow
+'k'	black
+'w'	white**
