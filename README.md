@@ -5,3 +5,9 @@ The link to the full article on [activation functions](https://siegel.work/blog/
 
 
 ![**Sigmoid Function**](sigmoid.png)
+
+
+![**tanH Function**](tanH.png)
+
+
+![**ReLu Function**](relu.png)
