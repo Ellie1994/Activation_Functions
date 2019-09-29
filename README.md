@@ -49,6 +49,7 @@ pip install matplotlib --user
 *open a cmd window and type in:*
 
 python -m pip install numpy
+
 python -m pip install matplotlib
 
 
