@@ -34,11 +34,13 @@ You can read the official documentation on both:
 *For Linux users:*
 
 pip install numpy
+
 pip install matplotlib
 
 *or if you experience problems with the environmental variables, try:*
 
 pip install numpy --user
+
 pip install matplotlib --user
 
 
