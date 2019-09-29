@@ -54,12 +54,20 @@ python -m pip install matplotlib
 *For Matplotlib's **plt.plot(arg1, func(arg1),'color-letter')** color-functionality, use the following 
 single letter abbreviations:*
 
-**character	color
+**Character	Color**
+
 'b'	blue
+
 'g'	green
+
 'r'	red
+
 'c'	cyan
+
 'm'	magenta
+
 'y'	yellow
+
 'k'	black
-'w'	white**
+
+'w'	white
